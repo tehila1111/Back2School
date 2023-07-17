@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="../home/header111.css" rel="stylesheet" />
+    <link href="shopping cart.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title>Payment</title>
+</head>
+<body>
+    <header>
+        <img id="logo" src="../../pictures/logo/LOGO3.png" />
+
+        <!--תפריט למסכים קטנים-->
+        <div class="mobile">
+            <input type="checkbox" id="active" class="cheki">
+            <label for="active" class="menu-btn"><span></span></label>
+            <label for="active" class="close"></label>
+            <div class="wrapper">
+                <ul>
+                    <li> <a href="../home/home page.html">HOME</a></li>
+                    <li><a href="../products/bags.html">BAGS</a></li>
+                    <li><a href="../products/accessories.html">ACCESSORIES</a></li>
+                    <li><a href="../products/school supplie.html"> SUPPLIE</a></li>
+                    <li><a href="../about/about.html">ABOUT</a></li>
+                    <li>
+                        <a href="../products/shopping cart.html">
+                            <img class="shop" src="../../pictures/icon/shopping-cart.png" />
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <!--תפריט למסכים רחבים-->
+        <nav class="stroke">
+
+            <ul>
+                <li> <a href="../home/home page.html">HOME</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Products</a>
+                    <div class="dropdown-content">
+                        <a href="bags.html">SCHOOL BAGS</a>
+                        <a href="school supplie.html">SCHOOL SUPPLIE</a>
+                        <a href="accessories.html">ACCESSORIES</a>
+                    </div>
+                </li>
+                <li><a href="../about/about.html">ABOUT</a></li>
+
+                <li>
+                    <a href="../products/shopping cart.html"><img class="shop" src="../../pictures/icon/shopping-cart.png" /></a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <form>
+
+        <h2>PAYMENT CARD</h2>
+        <span class="text">Credit Card Number</span> <br />
+        <input class="pay" type="text" /><br />
+        <span class="text">Expiration Date</span><br />
+        <input class="pay" type="date" /><br />
+        <span class="text">Cvv</span><br />
+        <input class="pay" type="number" />
+        <div class="buttons">
+            <button class="btn-hover color-1"> BUY</button>
+        </div>
+    </form>
+</body>
+</html>

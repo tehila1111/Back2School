@@ -1,0 +1,315 @@
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll.config
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.pdb
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.xml
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe.config
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\csc.rsp
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe.config
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\csi.rsp
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.AppContext.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Console.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Http.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.ValueTuple.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe.config
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\vbc.rsp
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.AssemblyReference.cache
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK_TO_SCHOOL.Resources.resources
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.GenerateResource.cache
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CoreCompileInputs.cache
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CopyComplete
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.dll
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.xml
+C:\Users\e0509\OneDrive\Desktop\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.pdb
+D:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll.config
+D:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll
+D:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.pdb
+D:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.xml
+D:\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe
+D:\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe.config
+D:\back to school\BACK TO SCHOOL\bin\roslyn\csc.rsp
+D:\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe
+D:\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe.config
+D:\back to school\BACK TO SCHOOL\bin\roslyn\csi.rsp
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.AppContext.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Collections.Immutable.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Console.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Globalization.Calendars.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Http.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Sockets.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Reflection.Metadata.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.ValueTuple.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe
+D:\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe.config
+D:\back to school\BACK TO SCHOOL\bin\roslyn\vbc.rsp
+D:\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe
+D:\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe.config
+D:\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbprojAssemblyReference.cache
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK_TO_SCHOOL.Resources.resources
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.GenerateResource.cache
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CoreCompileInputs.cache
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CopyComplete
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.dll
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.xml
+D:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.pdb
+I:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll.config
+I:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll
+I:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.pdb
+I:\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.xml
+I:\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe
+I:\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe.config
+I:\back to school\BACK TO SCHOOL\bin\roslyn\csc.rsp
+I:\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe
+I:\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe.config
+I:\back to school\BACK TO SCHOOL\bin\roslyn\csi.rsp
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Managed.Core.targets
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.AppContext.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Collections.Immutable.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Console.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Globalization.Calendars.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Http.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Sockets.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Reflection.Metadata.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.ValueTuple.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XmlDocument.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe
+I:\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe.config
+I:\back to school\BACK TO SCHOOL\bin\roslyn\vbc.rsp
+I:\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe
+I:\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe.config
+I:\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbprojAssemblyReference.cache
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK_TO_SCHOOL.Resources.resources
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.GenerateResource.cache
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CoreCompileInputs.cache
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CopyComplete
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.dll
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.xml
+I:\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.pdb
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll.config
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.pdb
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\BACK TO SCHOOL.xml
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\csc.exe.config
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\csc.rsp
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\csi.exe.config
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\csi.rsp
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Managed.Core.targets
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.AppContext.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Collections.Immutable.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Console.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Globalization.Calendars.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Http.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Net.Sockets.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Reflection.Metadata.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.ValueTuple.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XmlDocument.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\vbc.exe.config
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\vbc.rsp
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe.config
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbprojAssemblyReference.cache
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK_TO_SCHOOL.Resources.resources
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.GenerateResource.cache
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CoreCompileInputs.cache
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CopyComplete
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.dll
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.xml
+H:\שנה א תשפב\WEB\בלי פלורסהיים\back to school\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.pdb
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll.config
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\BACK TO SCHOOL.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\BACK TO SCHOOL.pdb
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\BACK TO SCHOOL.xml
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\csc.exe
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\csc.exe.config
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\csc.rsp
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\csi.exe
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\csi.exe.config
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\csi.rsp
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.AppContext.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Console.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Net.Http.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.ValueTuple.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\vbc.exe
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\vbc.exe.config
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\vbc.rsp
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK_TO_SCHOOL.Resources.resources
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.GenerateResource.cache
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.vbproj.CopyComplete
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.dll
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.xml
+C:\Users\e0509\Desktop\לימודים\back to school-אתר\BACK TO SCHOOL\obj\Debug\BACK TO SCHOOL.pdb

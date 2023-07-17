@@ -1,0 +1,362 @@
+﻿/*custom font*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: montserrat, arial, verdana;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+/* עיצוב פסי גלילה */
+/*::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffefef;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ffb0b0;
+    border-radius: 50px;
+}
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #ffc1c1;
+    }*/
+/******/
+#logo {
+    width: 50%;/*
+    height:auto;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icons {
+    width: 200px;
+    margin: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/*scroll icon*/
+.scroll-downs {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 25px;
+    height: 40px;
+    margin-top: 40%;
+}
+
+.mousey {
+    padding: 10px 15px;
+    height: 30px;
+    border: 2px solid #ffb0b0;
+    border-radius: 25px;
+    box-sizing: content-box;
+}
+
+.scroller {
+    width: 2px;
+    height: 8px;
+    border-radius: 25%;
+    background-color: #ffb0b0;
+    animation-name: scroll;
+    animation-duration: 2.2s;
+    animation-timing-function: cubic-bezier(.15,.41,.69,.94);
+    animation-iteration-count: infinite;
+}
+
+@keyframes scroll {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(15px);
+        opacity: 0;
+    }
+}
+
+#pscroll {
+    font-size: 8pt;
+    font-weight: 100;
+    width: 200px;
+    margin-left: -20px;
+}
+
+
+/*style picture command sections*/
+.pimg1, .pimg2, .pimg3 {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1 {
+    background-color: #ffd4d4;
+    min-height: 100%;
+}
+
+.pimg2 {
+    background-image: url('../../pictures/home gallery/pencil.jpg');
+    min-height: 400px;
+}
+
+.pimg3 {
+    background-image: url('../../pictures/home gallery/close-up-schoolgirl-writing.jpg');
+    min-height: 400px;
+}
+
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-light {
+    background-color: #ffefef;
+    color: #666;
+    display: flex;
+    justify-content: center;
+}
+
+.section-dark {
+    background-color: #ffefef;
+    color: #000;
+    height: 400px;
+}
+
+.pwhy {
+    margin: 60px;
+    margin-top: 90px;
+    font-size: 14pt;
+}
+
+.ptext {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+
+.icons:hover {
+    opacity: 0.5;
+}
+/* Progress bar style */
+.progress {
+    background: linear-gradient(to right,#ff6666 0%, #ffa1a1 50vw, #ff3535 100vw);
+    background-repeat: no-repeat;
+    position: fixed;
+    width: var(--scroll);
+    top: 0;
+    left: 0;
+    height: 4px;
+    z-index: 1;
+}
+/*menu style*/
+.mobile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 18px;
+    width: 100%;
+    z-index: 20;
+    padding-bottom: 50px;
+}
+
+.shop {
+    width: 20px;
+    margin-top: 3px;
+}
+
+.wrapper {
+    position: fixed;
+    top: 0;
+    right: -40%;
+    height: 280px;
+    width: 180px;
+    background: #fdecec;
+    transition: all 0.6s ease-in-out;
+    text-align: center;
+}
+
+
+#active:checked ~ .wrapper {
+    right: 0;
+}
+
+.menu-btn {
+    position: absolute;
+    z-index: 2;
+    right: 20px;
+    top: 6px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    position: fixed;
+}
+
+    .menu-btn span,
+    .menu-btn:before,
+    .menu-btn:after {
+        content: "";
+        position: absolute;
+        top: calc(50% - 1px);
+        left: 30%;
+        width: 40%;
+        border-bottom: 2px solid #000;
+        transition: transform .6s cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+
+    .menu-btn:before {
+        transform: translateY(-8px);
+    }
+
+    .menu-btn:after {
+        transform: translateY(8px);
+    }
+
+.close {
+    z-index: 1;
+    width: 25%;
+    height: 100%;
+    pointer-events: none;
+    transition: background .6s;
+}
+
+#active:checked + .menu-btn span {
+    transform: scaleX(0);
+}
+
+#active:checked + .menu-btn:before {
+    transform: rotate(45deg);
+    border-color: #f5a1a1;
+}
+
+#active:checked + .menu-btn:after {
+    transform: rotate(-45deg);
+    border-color: #f5a1a1;
+}
+
+.wrapper ul {
+    position: absolute;
+    top: 58%;
+    left: 35%;
+    height: 90%;
+    transform: translate(-50%, -50%);
+    list-style: none;
+}
+
+    .wrapper ul li {
+        height: 14%;
+        width: 137px;
+    }
+
+        .wrapper ul li:hover {
+            background-color: #ffd8d8;
+            border-radius: 50px;
+        }
+
+        .wrapper ul li a {
+            text-decoration: none;
+            font-size: 10pt;
+            padding: 5px 50px;
+            color: #000000;
+            position: absolute;
+        }
+
+#active {
+    display: none;
+}
+
+    #active:checked ~ .wrapper ul li a {
+        opacity: 1;
+    }
+
+.wrapper ul li a {
+    transition: opacity 1.2s, transform 1.2s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transform: translateX(100px);
+}
+
+#active:checked ~ .wrapper ul li a {
+    transform: none;
+    transition-timing-function: ease, cubic-bezier(.1,1.3,.3,1);
+    transition-delay: .6s;
+    transform: translateX(-100px);
+}
+/* סוף קוד תפריט */
+@media screen and (max-width:868px) {
+    #logo {
+        width: 70%;
+    }
+    /*scroll icon*/
+    .scroll-downs {
+        position: absolute;
+        left: 0;
+        width: 25px;
+        height: 40px;
+        margin-top: 70%;
+    }
+
+    .pwhy p {
+        font-size: 12pt;
+    }
+
+    .pwhy {
+        margin-top: 82px;
+    }
+
+    .icons {
+        width: 150px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    /*scroll icon*/
+    .scroll-downs {
+        position: absolute;
+        left: 0;
+        width: 25px;
+        height: 40px;
+        margin-top: 120%;
+    }
+
+    .pwhy p {
+        font-size: 10pt;
+    }
+
+    .pwhy {
+        margin-top: 30px;
+    }
+
+    .section-light {
+        background-color: #ffefef;
+        color: #666;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .icons {
+        margin: 25px;
+    }
+}

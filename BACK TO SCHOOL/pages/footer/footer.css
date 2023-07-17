@@ -1,0 +1,135 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Montserrat);    
+
+body {
+    margin: 0;
+    font-family: montserrat, arial, verdana;
+}
+
+
+footer {
+    background-color: #ffe8e8;
+}
+
+.footer .column {
+    width: 20%;
+    margin: 0% 1%;
+    display: inline-block;
+}
+
+    .footer .column ul {
+        width: 100%;
+    }
+
+        .footer .column ul li {
+            list-style: none;
+            padding: 5px 0px;
+            color: gray;
+        }
+
+            .footer .column ul li a {
+                text-decoration: none;
+                font-size: 1em;
+                color: gray;
+                transition: 0.5s;
+            }
+
+                .footer .column ul li a:hover {
+                    color: #f1b0b0;
+                }
+
+        .footer .column ul .title {
+            font-family: montserrat, arial, verdana;
+            font-size: 1.2em;
+            color: #fff;
+        }
+
+        .footer .column ul li input {
+            padding: 10px 5px;
+            outline: none;
+            border: 0;
+            width: 70%;
+            height: 40px;
+            color: #f1b0b0;
+        }
+
+        .footer .column ul li .btn1 {
+            outline: none;
+            border: 0;
+            padding: 5px;
+            color: #fff;
+            height: 44px;
+            position: relative;
+            top: 1px;
+            font-size: 0.5em;
+            background: #f1b0b0;
+        }
+
+        .footer .column ul li i {
+            font-size: 2em;
+            margin: 0px 10px;
+        }
+
+.sub-footer {
+    background: gray;
+    padding: 5px 0px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: montserrat, arial, verdana;
+}
+
+@media (max-width:720px) {
+    .footer .column {
+        width: 90%;
+        display: block;
+        margin: 0% 0%;
+    }
+
+        .footer .column:nth-child(2), .footer .column:nth-child(3) {
+            width: 40%;
+            display: inline-block;
+        }
+
+    div.page {
+        margin-left: +75px;
+    }
+}
+
+@media (min-width:721px) {
+    .footer .column ul li input {
+        padding: 5px 5px;
+        outline: none;
+        border: 0;
+        width: 70%;
+        height: 34px;
+        color: #1e1e1e;
+    }
+
+    .footer .column ul li .btn1 {
+        position: relative;
+        top: 2px;
+    }
+}
+
+@media (max-width:940px) {
+    .footer .column ul li input {
+        padding: 5px 5px;
+        outline: none;
+        border: 0;
+        width: 55%;
+        height: 34px;
+        color: #1e1e1e;
+    }
+
+    .footer .column ul li .btn1 {
+        position: relative;
+        top: 2px;
+    }
+
+    column.ul.li.a.social icon {
+        width: 10px;
+    }
+}
+#love{
+    height:15px;
+}

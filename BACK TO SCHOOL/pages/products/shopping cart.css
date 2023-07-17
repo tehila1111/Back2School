@@ -1,0 +1,100 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/* עיצוב פסי גלילה */
+/*::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffefef;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ffb0b0;
+    border-radius: 50px;
+}
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #ffc1c1;
+    }*/
+/******/
+
+body {
+    font-family: montserrat, arial, verdana;
+    background: #fdf3f3;
+}
+
+.text {
+    margin-left: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 0.6em;
+}
+
+.pay {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    background-color: #fff3f3;
+    border: none;
+    border-bottom: 2px solid #ffafaf;
+    margin-bottom: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    box-shadow: 10px 10px #ffafaf;
+    padding: 20px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    width: 300px;
+    height: 400px;   
+    background-color: #ffe5e5;
+}
+input {
+    outline-style:none;
+}
+.buttons {
+    margin: 10%;
+    text-align: center;
+}
+
+.btn-hover {
+    width: 150px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 40px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+    .btn-hover:hover {
+        background-position: 100% 0;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+    }
+
+    .btn-hover:focus {
+        outline: none;
+    }
+
+    .btn-hover.color-1 {
+        background-image: linear-gradient(to right, #ffafaf, #ffcbcb,#ff6969, #ffdada);
+    }
+
+

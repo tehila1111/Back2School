@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="home page.css" rel="stylesheet" />
+    <link href="../footer/footer.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Play&display=swap" rel="stylesheet">
+    <meta charset="utf-8" />
+    <title>Home Page</title>
+</head>
+<body>
+    <div class="progress"></div>
+    <div class="mobile">
+        <input type="checkbox" id="active">
+        <label for="active" class="menu-btn"><span></span></label>
+        <label for="active" class="close"></label>
+        <div class="wrapper">
+            <ul>
+                <li> <a href="../home/home page.html">HOME</a></li>
+                <li><a href="../products/bags.html">BAGS</a></li>
+                <li><a href="../products/accessories.html">ACCESSORIES</a></li>
+                <li><a href="../products/school supplie.html"> SUPPLIE</a></li>
+                <li><a href="../about/about.html">ABOUT</a></li>
+                <li><a href="../products/shopping cart.html">
+                        <img class="shop" src="../../pictures/icon/shopping-cart.png" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+    <div class="pimg1">
+        <div class="ptext">
+            <img id="logo" src="../../pictures/logo/LOGO3.png" />
+        </div>
+    </div>
+    <div class="scroll">
+        <div class="scroll-downs">
+            <div class="mousey">
+                <div class="scroller"></div>
+            </div>
+            <p id="pscroll">SCROLL DOWN</p>
+        </div>
+    </div>
+    <section class="section section-light">
+        <img class="icons" src="../../pictures/icon/ACC.png" />
+        <img class="icons" src="../../pictures/icon/SCHOOL BAGS.png" />
+        <img class="icons" src="../../pictures/icon/SUP.png" />
+    </section>
+    <div class="pimg2">
+    </div>
+    <section class="section section-dark">
+        <div class="pwhy">
+            <h2>WHY BACK 2 SCHOOL?</h2>
+            <p>
+                back 2 school saves you the long shopping with children
+                <br />
+                and brings all the equipment <br />
+                to your home in just three to six business days! <br />
+                back 2 school is the best in the <br />market for the
+                best brands in the world<br /> at the most affordable
+                prices.
+            </p>
+        </div>
+    </section>
+    <div class="pimg3">
+    </div>
+
+
+
+    <footer>
+        <div class="footer">
+            <div class="column">
+                <ul>
+                    <li class="title">BACK 2 SCHOOL</li>
+                    <li>
+                        Ce projet a été construit par 
+                        et renommée, dur dessus et nous 
+                        paniqué à chaque instant que  
+                        navigateur n'a rien exécuté.
+
+                    </li>
+
+                </ul>
+            </div>
+            <div class="column">
+                <ul>
+                    <li class="title">OTHER LINKS</li>
+                    <li><a href="../about/about.html">About us</a></li>
+                    <li><a href="../about/about.html">Common qestion</a></li>
+                    <li><a href="../about/about.html">Website policy</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul>
+                    <li class="title">SHORT CUT</li>
+                    <li><a href="../products/bags.html">School Bags</a></li>
+                    <li><a href="../products/school supplie.html">School Supplies</a></li>
+                    <li><a href="../products/accessories.html">Hair Fashion</a></li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul>
+                    <li class="title">NEWSLETTER</li>
+                    <li>
+                        <form action="#" method="post">
+                            <input type="email" name="email"
+                                   placeholder="Email*" maxlength="80" required /><button class="btn1">
+                                <i class="fa fa-paper-plane"></i>
+                            </button>
+
+                        </form>
+                    </li>
+                    <li>
+                        <a class="social icon" href="#"
+                           title="Address,State,Country,Pincode">
+                            <i class="fa fa-map-marker"></i>
+                        </a>
+
+                        <a class="social icon" href="#">
+                            <i class="fa fa-phone"></i>
+                        </a>
+
+                        <a class="social icon" href="#">
+                            <i class="fa fa-envelope"></i>
+                        </a>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <div class="sub-footer">
+        made with &nbsp;
+        <img id="love" src="../../pictures/footer/תמונה1.png" />        
+        &nbsp; tehila &amp; belli
+    </div>
+
+
+    <!--/* Progress bar code */-->
+    <script>
+        var h = document.documentElement,
+            b = document.body,
+            st = 'scrollTop',
+            sh = 'scrollHeight',
+            progress = document.querySelector('.progress'),
+            scroll;
+        document.addEventListener('scroll', function () {
+            scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)
+                * 100;
+            progress.style.setProperty('--scroll', scroll + '%');
+        });
+    </script>
+</body>
+</html>
